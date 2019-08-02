@@ -135,13 +135,11 @@ body {
   height: 100%;
 }
 /* Difining global variables */
-/*start of actual code */
+@b : "font-weight: 400"/*start of actual code */
+
 html {
   background-color: #1a1a1a;
   padding: 3%;
-}
-strong {
-  font-weight: 400;
 }
 .container {
   text-align: justify;
